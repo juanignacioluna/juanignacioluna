@@ -1,6 +1,8 @@
 <h1 align="center">Holaa 👋, Soy Juan Ignacio Luna</h1>
 <h3 align="center">Un desarrollador fullstack de Buenos Aires</h3>
 
+- 🔭 Actualmente buscando trabajo :)
+
 - 👨‍💻 Todas mis aplicaciones están acá [https://lunaajuanignacio.web.app](https://lunaajuanignacio.web.app)
 
 - 💬 Preguntame sobre **react, javascript, node**
