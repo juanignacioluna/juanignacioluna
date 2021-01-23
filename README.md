@@ -3,9 +3,13 @@
 
 - 🔭 Actualmente buscando trabajo :)
 
+- 🌱 Estudiando **Ingeniería en Sistemas, UTN.**
+
 - 👨‍💻 Todas mis aplicaciones están acá [https://lunaajuanignacio.web.app](https://lunaajuanignacio.web.app)
 
 - 💬 Preguntame sobre **react, javascript, node**
+
+- 🤝 Mi linkedin [https://www.linkedin.com/in/juanignacioluna/](https://www.linkedin.com/in/juanignacioluna/)
 
 - 📫 Como contactarme **juluna@frba.utn.edu.ar**
 
