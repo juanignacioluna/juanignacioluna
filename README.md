@@ -1,5 +1,5 @@
 <h1 align="center">Holaa 👋, Soy Juan Ignacio Luna</h1>
-<h3 align="center">Desarrollador fullstack de Buenos Aires</h3>
+<h3 align="center">Desarrollador web fullstack de Buenos Aires</h3>
 
 - 🔭 Actualmente buscando trabajo :)
 
