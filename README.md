@@ -1,8 +1,5 @@
-### Hi there 👋
 <h1 align="center">Holaa 👋, Soy Juan Ignacio Luna</h1>
 <h3 align="center">Un desarrollador fullstack de Buenos Aires</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanignacioluna" alt="juanignacioluna" /></a> </p>
 
 - 👨‍💻 Todas mis aplicaciones están acá [https://lunaajuanignacio.web.app](https://lunaajuanignacio.web.app)
 
